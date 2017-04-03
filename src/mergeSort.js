@@ -13,7 +13,7 @@ class mergeSort(nums){
 
 };
 
- export default class stich(left, right){
+ export default class stitch(left, right){
 	var results = [];
 	while(left.length && right.length){
 		if(left[0] <= right[0]){
